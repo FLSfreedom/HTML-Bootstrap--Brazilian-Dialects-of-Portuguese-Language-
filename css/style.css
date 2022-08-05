@@ -1,0 +1,35 @@
+body {
+    background-image: url(../images/imagendefondo.jpg);
+}
+p {
+    background-image: linear-gradient(to top, rgb(123, 241, 123), rgb(157, 157, 241));
+    border-bottom-right-radius: 20%;
+    color:rgb(85, 70, 31);
+    opacity: 95%;
+}
+a {
+   color:rgb(94, 30, 155); 
+}
+a:hover {
+    color: antiquewhite;
+}
+footer {
+    height: 100px;
+    padding: 5%;
+}
+.colorLinkFooter {
+    background-color: greenyellow;
+    border-radius: 10%;
+}
+h1 {
+    color:rgb(5, 99, 206);
+}
+img {
+    width: 70%;
+    height: 70%;
+}
+.row {
+    background-image: linear-gradient(to left, green, rgb(118, 228, 118));
+    color: blanchedalmond;
+    border-radius: 2%;
+}
